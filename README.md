@@ -33,5 +33,6 @@ Not Working / Not Tested :
 - SD Card reader, tried Sinetek kext but couldnt make it to work
 - HDMI Audio, not tested
 
+Dont forget to generate a new serial with Clover Configurator for Macbook 14,1
 
 
