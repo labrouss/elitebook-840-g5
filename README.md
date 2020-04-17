@@ -8,6 +8,7 @@ Currently verified and working in Catalina 10.15.3 :
 
 - Trackpad I2C VoodooI2C and VoodooI2CHID (Trackpad preferences enabled and working as expected)
 - WiFI replaced the Intel Wifi with Dell 1820a
+- Integrated LAN
 - Battery indications, battery status OK
 - Audio input/output and mic working
 - Camera working
@@ -21,11 +22,11 @@ Currently verified and working in Catalina 10.15.3 :
 - NVME, Replaced non-working Samsung PM981 with Crusial P1
 
 
-Not Working :
+Not Working / Not Tested :
 
 - Bluetooth (Installed a USB bluetooth dongle)
 - Fingerprint sensor (Not really tested)
-
+- HDMI Audio, not tested
 
 
 
