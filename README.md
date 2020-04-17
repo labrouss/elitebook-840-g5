@@ -8,7 +8,7 @@ https://github.com/kinoute/Hack-HP-EliteBook-850-G5
 
 Download ZIP and copy files under your EFI disk partition in /EFI/CLOVER/
 
-Currently verified and working in Catalina 10.15.3 :
+#Currently verified and working in Catalina 10.15.3 :
 
 - Trackpad I2C VoodooI2C and VoodooI2CHID (Trackpad preferences enabled and working as expected)
 - WiFI replaced the Intel Wifi with Dell 1820a
@@ -26,13 +26,13 @@ Currently verified and working in Catalina 10.15.3 :
 - NVME, Replaced non-working Samsung PM981 with Crusial P1
 
 
-Not Working / Not Tested :
+#Not Working / Not Tested :
 
 - Bluetooth (Installed a USB bluetooth dongle)
 - Fingerprint sensor (Not really tested)
 - SD Card reader, tried Sinetek kext but couldnt make it to work
 - HDMI Audio, not tested
 
-Dont forget to generate a new serial with Clover Configurator for Macbook 14,1
+#Dont forget to generate a new serial with Clover Configurator for Macbook 14,1
 
 
