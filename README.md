@@ -33,6 +33,6 @@ Download ZIP and copy files under your EFI disk partition in /EFI/CLOVER/
 - SD Card reader, tried Sinetek kext but couldnt make it to work
 - HDMI Audio, not tested
 
-# Dont forget to generate a new serial with Clover Configurator for Macbook 14,1
+# Dont forget to open config.plist and generate a new serial with Clover Configurator for Macbook 14,1
 
 
