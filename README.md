@@ -11,6 +11,7 @@ Download ZIP and copy files under your EFI disk partition in /EFI/CLOVER/
 # Currently verified and working in Catalina 10.15.3 :
 
 - Trackpad I2C VoodooI2C and VoodooI2CHID (Trackpad preferences enabled and working as expected)
+- Handoff, iCloud, iMessage working 100%
 - WiFI replaced the Intel Wifi with Dell 1820a
 - Integrated LAN
 - Battery indications, battery status OK
